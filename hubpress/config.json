@@ -2,9 +2,22 @@
   "meta": {
     "username": "firmread",
     "repositoryName": "firmread.github.io",
-    "branch": "master"
+    "branch": "master",
+    "delay": "200"
+  },
+  "site": {
+    "title": "firmread",
+    "description": "a journey to the edge of knowledge",
+    "postsPerPage": "20"
+  },
+  "socialnetwork": {
+    "email": "firmread@me.com",
+    "twitter": "firmread",
+    "facebook": "firmread",
+    "instagram": "firmread",
+    "github": "firmread"
   },
   "theme": {
-    "name": "Casper"
+    "name": "casper"
   }
 }
