@@ -1,0 +1,8 @@
+# firmread
+
+### a journey to the edge of knowledge
+
+site resources
+
+* [avsys](firmread.github.io/avsysblog)
+* (interactivity)[firmread.github.io/interactivityblog]
